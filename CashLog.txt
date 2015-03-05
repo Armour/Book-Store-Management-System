@@ -1,0 +1,11 @@
+[ 2014-10-20 18:41:31 ] Manager(root) add new books(ISBN:2333) ---------- Outcome: 48
+[ 2014-10-20 18:47:35 ] Customer(test1) buy books(ISBN:2333) ---------- Income: 1485
+[ 2014-10-20 18:47:58 ] Customer(test1) refund books(ISBN:2333) ---------- Outcome: 297
+[ 2014-10-20 18:52:56 ] Customer(test1) refund books(ISBN:2333) ---------- Outcome: 1188
+[ 2014-10-22 8:33:35 ] Manager(root) add new books(ISBN:2) ---------- Outcome: 3
+[ 2014-10-22 9:27:2 ] Customer(guest) buy books(ISBN:1) ---------- Income: 49401
+[ 2014-10-22 9:33:24 ] Manager(armour) add new books(ISBN:3) ---------- Outcome: 47.5
+[ 2014-10-22 9:35:27 ] Manager(armour) add new books(ISBN:4) ---------- Outcome: 99.9
+[ 2014-10-22 9:36:22 ] Customer(guest) refund books(ISBN:1) ---------- Outcome: 2970
+[ 2014-10-22 9:36:36 ] Customer(guest) buy books(ISBN:4) ---------- Income: 72
+[ 2014-10-22 9:38:53 ] Customer(guest) buy books(ISBN:4) ---------- Income: 36

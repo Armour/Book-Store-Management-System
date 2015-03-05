@@ -1,0 +1,6 @@
+armour 123456 2
+root 123456 1
+guest 123456 3
+test1 123456 3
+test2 123456 3
+e e 0

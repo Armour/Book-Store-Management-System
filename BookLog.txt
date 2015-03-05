@@ -1,0 +1,15 @@
+[ 2014-10-20 18:41:31 ] Manager(root) add new books(ISBN:2333) with 2333 copy(s)
+[ 2014-10-20 18:42:35 ] Manager(root) delete books(ISBN:2333) with 12 copy(s)
+[ 2014-10-20 18:43:54 ] Manager(root) change book(ISBN:2333)'s information 
+[ 2014-10-20 18:47:35 ] Customer(test1) buy books(ISBN:2333) with 15 copy(s)
+[ 2014-10-20 18:47:58 ] Customer(test1) refund books(ISBN:2333) with 3 copy(s)
+[ 2014-10-20 18:52:56 ] Customer(test1) refund books(ISBN:2333) with 12 copy(s)
+[ 2014-10-22 8:31:25 ] Manager(root) change book(ISBN:1)'s information 
+[ 2014-10-22 8:33:35 ] Manager(root) add new books(ISBN:2) with 15 copy(s)
+[ 2014-10-22 9:27:2 ] Customer(guest) buy books(ISBN:1) with 499 copy(s)
+[ 2014-10-22 9:33:24 ] Manager(armour) add new books(ISBN:3) with 3 copy(s)
+[ 2014-10-22 9:35:27 ] Manager(armour) add new books(ISBN:4) with 6 copy(s)
+[ 2014-10-22 9:36:22 ] Customer(guest) refund books(ISBN:1) with 30 copy(s)
+[ 2014-10-22 9:36:36 ] Customer(guest) buy books(ISBN:4) with 2 copy(s)
+[ 2014-10-22 9:38:53 ] Customer(guest) buy books(ISBN:4) with 1 copy(s)
+[ 2014-10-22 10:28:24 ] Manager(root) change book(ISBN:3)'s information 
