@@ -1,24 +1,24 @@
 # Book-Store-Management-System
-======
+---
 A simple but useful  C++ program, assignment 1 in OOP course
-======
+---
                      
                      ## Welcome to SFU Book Store Management System
 
-=========================================================================================
+---
 
-Author Information :
+#### Author Information :
 
 Name	:		Armour
 Call	:		18868101893
-Web		:		www.armourcy.com
+Web	:		www.armourcy.com
 E-mail	:		497052684@qq.com
 
 Please send me an e-mail if you meet some trouble with this system.
 
------------------------------------------------------------------------------------------
+----
 
-All files :
+#### All files :
 ____	
 	|.H
 	|----
@@ -57,9 +57,9 @@ ____
 	|
 	|
 
------------------------------------------------------------------------------------------
+---
 
-How to use those files?
+#### How to use those files?
 
 1) Open all the .cpp and .h files in Visual Studio, compile and run it.
 2) The main file is "main.cpp".
@@ -70,18 +70,18 @@ Advanced features (Beside book system like buy or sell books)£º
 1)  User rating system, user with different status have different power.
 2£© Log system, allow you to lookup the *Log.txt to know current changes. 
 
------------------------------------------------------------------------------------------
+---
 
-Classes Construction :
-
----- User Classes :
+#### Classes Construction :
+ 
+**User Classes :**
 
 	1) User 	:	Fundamental class with basic authority like list book, see detail information or change password.
 	2) Customer : 	Inherit from "User", add new ability like buy book and ask for refund. 
 	3) Staff	:   Inherit from "User", add new right like add new book, delete book, lookup net profit or change book's information.
 	4) Admin	:	Inherit from "Staff", add new power like add new user, delete user, list users or change user's status.
 
----- Other Classes :
+**Other Classes :**
 
 	5) Book 	: 	Fundamental class with book's information and some basic book management function.
 	6) Log 		:	This class has some functions used to log all the executed operation to .txt.
@@ -90,7 +90,7 @@ Classes Construction :
 
 -----------------------------------------------------------------------------------------
 
-Detail Information:
+#### Detail Information:
 
 Book :
 	name			the book's name
@@ -118,7 +118,7 @@ More detail information can be found in comments ~
 
 -----------------------------------------------------------------------------------------
 
-Expected function in future :
+#### Expected function in future :
 
 1) Crypt user's password function in Class Password.
 2) Add lookup history function in Class User.
