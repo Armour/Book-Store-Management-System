@@ -6,12 +6,12 @@
 
 class Staff : public User {
 public:
-	void AddBook();						// Add new books
-	void DelBook();						// Delete some books
-	void SetBook();						// Change books' information
-	void Interface(string username);	// Staff interface
+    void AddBook(); // Add new books
+    void DelBook(); // Delete some books
+    void SetBook(); // Change books' information
+    void Interface(string username); // Staff interface
 protected:
-	void ViewProfit();					// Lookup net profit
+    void ViewProfit(); // Lookup net profit
 };
 
 #endif
