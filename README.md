@@ -57,7 +57,7 @@ ____
 2) Compile the binaries and run the executable file.
 3) The main file is "main.cpp".
 4) Make sure all .txt files exist in the same folder with the .cpp and .h files, otherwise a error will occur.
-5) Seperate input words with an underline "_" instead of spaces.
+5) Separate input words with an underline "_" instead of spaces.
 
 #### Advanced features
 Other than primitive features such as buying or selling books, the system provides the following features:
@@ -76,7 +76,7 @@ Other than primitive features such as buying or selling books, the system provid
 **Other Classes :**
 
     5) Book     :    Fundamental class with a book's information and basic book management functions.
-    6) Log      :    This class contains functions for loging all executed operation to .txt.
+    6) Log      :    This class contains functions for logging all executed operation to .txt.
     7) Library  :    This class is a container for storing information of books, students, and cash. The class also contains functions for reading information stored in .txt files and rewriting them back afterwards.
     8) Password :    This class contains functions related to password disposal.
 
@@ -86,7 +86,7 @@ Other than primitive features such as buying or selling books, the system provid
 Book :
     name            the book's title
     isbn            the book's ISBN number, which is the unique identifier of a book (not a copy)
-    author          the name of the auhor. E.g. X.Zed.Amour
+    author          the name of the author. E.g. X.Zed.Amour
     category        the book's category number.   E.g. 1 maybe for Literature, 2 maybe for Computer
     number          the remaining amount of copies in book store
     price           the retail price of a book
